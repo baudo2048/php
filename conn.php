@@ -1,8 +1,8 @@
 <?php
-$servername = "sql207.epizy.com";
-$username = "epiz_33098256";
-$password = "F2IGmEB2DNees";
-$dbname = "epiz_33098256_hellodb";
+$servername = "Localhost";
+$username = "root";
+$password = "";
+$dbname = "testcode";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
